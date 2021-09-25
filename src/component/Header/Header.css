@@ -1,0 +1,36 @@
+.header {
+	text-align: center;
+}
+
+.logo {
+	height: 80px;
+}
+
+.header nav {
+	text-align: left;
+	background-color: black;
+	line-height: 40px;
+}
+
+.header nav a {
+	text-decoration: none;
+	color: white;
+	margin-right: 40px;
+	padding: 8px;
+	font-size: 20px;
+}
+
+.header nav a:hover {
+	background-color: lightgray;
+}
+
+.input {
+	text-align: center;
+	padding: 20px;
+	background-color: rgb(51, 49, 49);
+}
+
+.input-field {
+	padding: 8px;
+	width: 70vw;
+}
